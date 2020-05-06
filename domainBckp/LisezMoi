@@ -1,0 +1,5 @@
+La sauvegarde qui contient la configuration de sécurité et la source de données jdbc/goodcesiDS
+backup du domain1 de Payara 5
+Pour restaurer le domaine avec la sécurité et la source de données configurées :
+asadmin restore-domain --backupdir <chemin du dossier domainBckp> domain1
+
